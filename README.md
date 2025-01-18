@@ -114,21 +114,3 @@ We welcome contributions to make this project even better!
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## 📧 Contact
-For questions or feedback, please reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
----
-
-![Dynamic Visual](https://upload.wikimedia.org/wikipedia/commons/d/d3/Herbal_Medicine.gif)
-
-![Herbal Medicine Icon](https://upload.wikimedia.org/wikipedia/commons/3/37/Herbal_icon.png)
-
-![Herbal Remedy Example](https://upload.wikimedia.org/wikipedia/commons/7/7b/Turmeric_root.jpg)
-
